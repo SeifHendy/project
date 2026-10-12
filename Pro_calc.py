@@ -17,3 +17,5 @@ elif operation == '*':
     multi(x,y)
 elif operation == '/':
     division(x,y)
+else:
+    print("try again")
